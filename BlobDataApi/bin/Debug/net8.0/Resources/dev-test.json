@@ -1,0 +1,75 @@
+[
+  {
+    "PropertyName": "Property One",
+    "Spaces": [
+      {
+        "SpaceName": "Space A",
+        "RentRoll": [
+          {
+            "Month": "January",
+            "Amount": 1000.00
+          },
+          {
+            "Month": "February",
+            "Amount": 1000.00
+          }
+        ]
+      },
+      {
+        "SpaceName": "Space B",
+        "RentRoll": [
+          {
+            "Month": "January",
+            "Amount": 1200.00
+          },
+          {
+            "Month": "February",
+            "Amount": 1300.00
+          }
+        ]
+      }
+    ],
+    "Features": [
+      "24/7 Security",
+      "Fitness Center",
+      "Elevator"
+    ],
+    "Highlights": [
+      "Downtown location",
+      "LEED certification"
+    ],
+    "Transportation": [
+      "Green Line (0.5 miles)",
+      "Route 15 (0.2 miles)"
+    ]
+  },
+  {
+    "PropertyName": "Property Two",
+    "Spaces": [
+      {
+        "SpaceName": "Space C",
+        "RentRoll": [
+          {
+            "Month": "January",
+            "Amount": 1500.00
+          },
+          {
+            "Month": "February",
+            "Amount": 1550.00
+          }
+        ]
+      }
+    ],
+    "Features": [
+      "24/7 Security",
+      "Conference Room"
+    ],
+    "Highlights": [
+      "Near Airport",
+      "Modern Design"
+    ],
+    "Transportation": [
+      "Bus Line 42 (0.3 miles)"
+    ]
+  }
+]

@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alexander\\source\\repos\\BlobDataApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{501E6B14-F61C-4CAA-8ECE-C83224FF41AA}|BlobDataApi\\BlobDataApi.csproj|c:\\users\\alexander\\source\\repos\\blobdataapi\\blobdataapi\\models\\property.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{501E6B14-F61C-4CAA-8ECE-C83224FF41AA}|BlobDataApi\\BlobDataApi.csproj|solutionrelative:blobdataapi\\models\\property.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501E6B14-F61C-4CAA-8ECE-C83224FF41AA}|BlobDataApi\\BlobDataApi.csproj|c:\\users\\alexander\\source\\repos\\blobdataapi\\blobdataapi\\controllers\\propertiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{501E6B14-F61C-4CAA-8ECE-C83224FF41AA}|BlobDataApi\\BlobDataApi.csproj|solutionrelative:blobdataapi\\controllers\\propertiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501E6B14-F61C-4CAA-8ECE-C83224FF41AA}|BlobDataApi\\BlobDataApi.csproj|c:\\users\\alexander\\source\\repos\\blobdataapi\\blobdataapi\\services\\blobstorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{501E6B14-F61C-4CAA-8ECE-C83224FF41AA}|BlobDataApi\\BlobDataApi.csproj|solutionrelative:blobdataapi\\services\\blobstorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501E6B14-F61C-4CAA-8ECE-C83224FF41AA}|BlobDataApi\\BlobDataApi.csproj|c:\\users\\alexander\\source\\repos\\blobdataapi\\blobdataapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{501E6B14-F61C-4CAA-8ECE-C83224FF41AA}|BlobDataApi\\BlobDataApi.csproj|solutionrelative:blobdataapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501E6B14-F61C-4CAA-8ECE-C83224FF41AA}|BlobDataApi\\BlobDataApi.csproj|c:\\users\\alexander\\source\\repos\\blobdataapi\\blobdataapi\\models\\space.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{501E6B14-F61C-4CAA-8ECE-C83224FF41AA}|BlobDataApi\\BlobDataApi.csproj|solutionrelative:blobdataapi\\models\\space.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501E6B14-F61C-4CAA-8ECE-C83224FF41AA}|BlobDataApi\\BlobDataApi.csproj|c:\\users\\alexander\\source\\repos\\blobdataapi\\blobdataapi\\models\\rentroll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{501E6B14-F61C-4CAA-8ECE-C83224FF41AA}|BlobDataApi\\BlobDataApi.csproj|solutionrelative:blobdataapi\\models\\rentroll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501E6B14-F61C-4CAA-8ECE-C83224FF41AA}|BlobDataApi\\BlobDataApi.csproj|c:\\users\\alexander\\source\\repos\\blobdataapi\\blobdataapi\\models\\blobstorageconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{501E6B14-F61C-4CAA-8ECE-C83224FF41AA}|BlobDataApi\\BlobDataApi.csproj|solutionrelative:blobdataapi\\models\\blobstorageconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501E6B14-F61C-4CAA-8ECE-C83224FF41AA}|BlobDataApi\\BlobDataApi.csproj|c:\\users\\alexander\\source\\repos\\blobdataapi\\blobdataapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{501E6B14-F61C-4CAA-8ECE-C83224FF41AA}|BlobDataApi\\BlobDataApi.csproj|solutionrelative:blobdataapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501E6B14-F61C-4CAA-8ECE-C83224FF41AA}|BlobDataApi\\BlobDataApi.csproj|c:\\users\\alexander\\source\\repos\\blobdataapi\\blobdataapi\\resources\\dev-test.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{501E6B14-F61C-4CAA-8ECE-C83224FF41AA}|BlobDataApi\\BlobDataApi.csproj|solutionrelative:blobdataapi\\resources\\dev-test.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "dev-test.json",
+              "DocumentMoniker": "C:\\Users\\Alexander\\source\\repos\\BlobDataApi\\BlobDataApi\\Resources\\dev-test.json",
+              "RelativeDocumentMoniker": "BlobDataApi\\Resources\\dev-test.json",
+              "ToolTip": "C:\\Users\\Alexander\\source\\repos\\BlobDataApi\\BlobDataApi\\Resources\\dev-test.json",
+              "RelativeToolTip": "BlobDataApi\\Resources\\dev-test.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-27T17:37:05.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RentRoll.cs",
+              "DocumentMoniker": "C:\\Users\\Alexander\\source\\repos\\BlobDataApi\\BlobDataApi\\Models\\RentRoll.cs",
+              "RelativeDocumentMoniker": "BlobDataApi\\Models\\RentRoll.cs",
+              "ToolTip": "C:\\Users\\Alexander\\source\\repos\\BlobDataApi\\BlobDataApi\\Models\\RentRoll.cs",
+              "RelativeToolTip": "BlobDataApi\\Models\\RentRoll.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T17:33:00.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Space.cs",
+              "DocumentMoniker": "C:\\Users\\Alexander\\source\\repos\\BlobDataApi\\BlobDataApi\\Models\\Space.cs",
+              "RelativeDocumentMoniker": "BlobDataApi\\Models\\Space.cs",
+              "ToolTip": "C:\\Users\\Alexander\\source\\repos\\BlobDataApi\\BlobDataApi\\Models\\Space.cs",
+              "RelativeToolTip": "BlobDataApi\\Models\\Space.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAUAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T17:32:42.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Property.cs",
+              "DocumentMoniker": "C:\\Users\\Alexander\\source\\repos\\BlobDataApi\\BlobDataApi\\Models\\Property.cs",
+              "RelativeDocumentMoniker": "BlobDataApi\\Models\\Property.cs",
+              "ToolTip": "C:\\Users\\Alexander\\source\\repos\\BlobDataApi\\BlobDataApi\\Models\\Property.cs",
+              "RelativeToolTip": "BlobDataApi\\Models\\Property.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T17:31:00.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PropertiesController.cs",
+              "DocumentMoniker": "C:\\Users\\Alexander\\source\\repos\\BlobDataApi\\BlobDataApi\\Controllers\\PropertiesController.cs",
+              "RelativeDocumentMoniker": "BlobDataApi\\Controllers\\PropertiesController.cs",
+              "ToolTip": "C:\\Users\\Alexander\\source\\repos\\BlobDataApi\\BlobDataApi\\Controllers\\PropertiesController.cs",
+              "RelativeToolTip": "BlobDataApi\\Controllers\\PropertiesController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACYAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T17:18:01.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BlobStorageService.cs",
+              "DocumentMoniker": "C:\\Users\\Alexander\\source\\repos\\BlobDataApi\\BlobDataApi\\Services\\BlobStorageService.cs",
+              "RelativeDocumentMoniker": "BlobDataApi\\Services\\BlobStorageService.cs",
+              "ToolTip": "C:\\Users\\Alexander\\source\\repos\\BlobDataApi\\BlobDataApi\\Services\\BlobStorageService.cs",
+              "RelativeToolTip": "BlobDataApi\\Services\\BlobStorageService.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAA8wDcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T17:15:44.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Alexander\\source\\repos\\BlobDataApi\\BlobDataApi\\Program.cs",
+              "RelativeDocumentMoniker": "BlobDataApi\\Program.cs",
+              "ToolTip": "C:\\Users\\Alexander\\source\\repos\\BlobDataApi\\BlobDataApi\\Program.cs",
+              "RelativeToolTip": "BlobDataApi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T17:14:14.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BlobStorageConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Alexander\\source\\repos\\BlobDataApi\\BlobDataApi\\Models\\BlobStorageConfig.cs",
+              "RelativeDocumentMoniker": "BlobDataApi\\Models\\BlobStorageConfig.cs",
+              "ToolTip": "C:\\Users\\Alexander\\source\\repos\\BlobDataApi\\BlobDataApi\\Models\\BlobStorageConfig.cs",
+              "RelativeToolTip": "BlobDataApi\\Models\\BlobStorageConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T17:12:58.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Alexander\\source\\repos\\BlobDataApi\\BlobDataApi\\appsettings.json",
+              "RelativeDocumentMoniker": "BlobDataApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\Alexander\\source\\repos\\BlobDataApi\\BlobDataApi\\appsettings.json",
+              "RelativeToolTip": "BlobDataApi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-27T17:11:18.525Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
