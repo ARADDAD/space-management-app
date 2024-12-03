@@ -12,8 +12,8 @@ The **Space Management App** is a web-based solution for managing and booking me
 ## Tech Stack
 - **Frontend**: React.js, HTML, CSS
 - **Backend**: Node.js (if applicable)
-- **Database**: [Insert your database tech here, e.g., MongoDB, SQL]
-- **Deployment**: [Insert your deployment tech here, e.g., Azure, AWS, Heroku]
+
+## React app: https://github.com/ARADDAD/property-display-app
 
 ## Installation
 
